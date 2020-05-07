@@ -4,7 +4,7 @@ Dell KM636 layout for MAC
 I did use the [ukelele](https://software.sil.org/ukelele/) to create this keyboard layout for Dell KM636
 
 ## Layout
-![layout][layout]
+![layout](layout.png)
 
 ## Special keys
 - Alt → Option ⌥
