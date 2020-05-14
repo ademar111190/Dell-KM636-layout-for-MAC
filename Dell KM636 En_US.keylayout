@@ -1435,7 +1435,7 @@
             <when state="tachado" output="}̶"/>
         </action>
         <action id="~">
-            <when state="none" output="~̶"/>
+            <when state="none" output="~"/>
             <when state="tachado" output="~̶"/>
             <when state="til" output="˜"/>
         </action>
